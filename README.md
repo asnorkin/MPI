@@ -1,0 +1,2 @@
+# MPI
+Parallel programming course
