@@ -1,2 +1,3 @@
 # MPI
-Parallel programming course
+
+Parallel programming course at MIPT.
